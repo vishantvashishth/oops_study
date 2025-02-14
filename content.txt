@@ -1,0 +1,5 @@
+1.class and object (example)
+2. class had attributes and methods
+3. Why python is object oriented programming
+4. Why python is called oop-- everything in python is object
+5.Advantages
